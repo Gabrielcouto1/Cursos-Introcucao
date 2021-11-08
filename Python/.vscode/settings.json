@@ -13,5 +13,6 @@
     "files.associations": {
         "math.h": "c",
         "rand-impar.h": "c"
-    }
+    },
+    "code-runner.runInTerminal": true
 }
