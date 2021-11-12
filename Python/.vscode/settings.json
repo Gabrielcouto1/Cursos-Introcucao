@@ -4,7 +4,9 @@
         "**/*.code-workspace": true,
         "**/*.out": true,
         "**/.vscode":true,
-        "**/*.pdf":true
+        "**/*.pdf":true,
+        "**/*.pyc":true,
+        "**/__pycache__":true
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "editor.fontFamily": "Fira Code",
