@@ -1,4 +1,4 @@
-# Introducao-python-brocode
+# Cursos de introdução
  Programas usados nas vídeo aulas de python do canal brocode.
  
  Os programas estão divididos em aulas. Elas se encontram nas seguintes playlists:
