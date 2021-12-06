@@ -3,3 +3,5 @@
 .vscode
 App.java
 App.class
+*.md
+*.class
